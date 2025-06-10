@@ -4,6 +4,7 @@ Este projeto é uma página de perfil simples e elegante que exibe informações
 🚀 Tecnologias Utilizadas
 - HTML5 para estruturação da página
 - CSS3 para estilização e layout responsivo
+
 🎯 Recursos
 
 ✅ Design moderno e minimalista
