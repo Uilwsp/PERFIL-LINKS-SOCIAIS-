@@ -5,7 +5,11 @@ Este projeto é uma página de perfil simples e elegante que exibe informações
 - HTML5 para estruturação da página
 - CSS3 para estilização e layout responsivo
 🎯 Recursos
+
 ✅ Design moderno e minimalista
+
 ✅ Layout responsivo e adaptável a diferentes telas
+
 ✅ Ícones sociais interativos
+
 ✅ Fácil personalização de cores e estilos
