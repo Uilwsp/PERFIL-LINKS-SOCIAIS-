@@ -2,6 +2,9 @@ Perfil com Links Sociais 🌐
 
 Este projeto é uma página de perfil simples e elegante que exibe informações básicas do usuário e links para redes sociais. Criado com HTML e CSS, ele permite uma personalização fácil e rápida, ideal para portfólios, perfis pessoais ou cartões de visita digitais.
 
+![image](https://github.com/user-attachments/assets/4bd6e7a7-8579-4da5-9757-87cbd5c862fb)
+
+
 🚀 Tecnologias Utilizadas
 - HTML para estruturação da página
 - CSS para estilização e layout responsivo
